@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_issue_tracker,access.issue.tracker,model_issue_tracker,,1,1,1,1
+access_issue_category,access.issue.category,model_issue_category,,1,1,1,1
+access_issue_tags,access.issue.tags,model_issue_tags,,1,1,1,1
+
