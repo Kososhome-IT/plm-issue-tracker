@@ -5,6 +5,7 @@
     'author': 'Akash Sagar',
     'category': 'Messaging',
     'depends': ['sale_management','product','inspection', 'contacts', 'mail'],
+    'images':'plm-issue-tracker-main/static/description/download.png',
     'data': [
         'security/ir.model.access.csv',
         'data/sequence.xml', 
